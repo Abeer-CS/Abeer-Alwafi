@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abeer-Alwafi
-- 👀 I’m interested in programming, writing codes and solve problem in general. Specifically, I am interested in Business Analytics, Data Science, Artificial Intelligence, Data Engineering. 
-- 🌱 I’m currently learning python
+- 👀 I’m interested in programming, writing codes and solve problem in general. Specifically, I am Passionate in Business Analytics, Data Science, Artificial Intelligence, Data Engineering, and Software Engineering.
+- 🌱 I’m currently learning python, C, and SQL.
 
 
 <!---
